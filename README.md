@@ -34,3 +34,4 @@ git push origin main
 ```
 
 **Примечание:** для визуального соответствия макету проверьте страницу в браузере и результаты CI-тестов в разделе `Actions`.
+**https://github.com/mirslgames/posmotri-v-okno-ad**
