@@ -1,12 +1,8 @@
 # «Посмотри в окно» — проектная работа
 
-Верстка интерфейса приложения «Посмотри в окно» по заданному макету Яндекс Практикума.
+https://github.com/mirslgames/posmotri-v-okno-ad
 
-## Ссылка на репозиторий
-
-[GitHub — mirslgames/posmotri-v-okno-ad](https://github.com/mirslgames/posmotri-v-okno-ad)
-
-Название репозитория: `posmotri-v-okno-ad`. Не переименовывайте его при публикации проекта.
+Репозиторий: `posmotri-v-okno-ad`
 
 ## Состав проекта
 
